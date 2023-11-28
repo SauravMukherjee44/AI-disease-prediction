@@ -1,1 +1,1 @@
-# AI-Heakthcare-Hub
+# AI-Healthcare-Hub
